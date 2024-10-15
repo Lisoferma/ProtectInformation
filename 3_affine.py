@@ -65,3 +65,4 @@ print("Шифр: " + encrypt)
 print("Дешифр: " + decrypt)
 
 # a = 5
+# N = 34
